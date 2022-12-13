@@ -1,4 +1,4 @@
-_callbacks = dict()
+_callbacks = {}
 
 
 def register(hook, order=0):
